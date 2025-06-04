@@ -1,0 +1,11 @@
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\bin\Debug\net8.0\Modelo.deps.json
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\bin\Debug\net8.0\Modelo.dll
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\bin\Debug\net8.0\Modelo.pdb
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\obj\Debug\net8.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\obj\Debug\net8.0\Modelo.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\obj\Debug\net8.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\obj\Debug\net8.0\Modelo.dll
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\obj\Debug\net8.0\refint\Modelo.dll
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\obj\Debug\net8.0\Modelo.pdb
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\Modelo\obj\Debug\net8.0\ref\Modelo.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC55A7A-A548-47C1-B72F-E50B54D2FD76}|synchronized.colors\\synchronized.colors.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\synchronized.colors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC55A7A-A548-47C1-B72F-E50B54D2FD76}|synchronized.colors\\synchronized.colors.csproj|solutionrelative:synchronized.colors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579F360F-D1D7-42A1-9520-58A04D5E7C91}|semaphore\\semaphore.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\semaphore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579F360F-D1D7-42A1-9520-58A04D5E7C91}|semaphore\\semaphore.csproj|solutionrelative:semaphore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529CD0F3-E1CC-49BE-9FA7-F05A757ED563}|mutex\\mutex.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\mutex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529CD0F3-E1CC-49BE-9FA7-F05A757ED563}|mutex\\mutex.csproj|solutionrelative:mutex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F0BB4F-EB65-436F-8705-FB08677FA9B9}|interlocked\\interlocked.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\interlocked\\summation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F0BB4F-EB65-436F-8705-FB08677FA9B9}|interlocked\\interlocked.csproj|solutionrelative:interlocked\\summation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F0BB4F-EB65-436F-8705-FB08677FA9B9}|interlocked\\interlocked.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\interlocked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F0BB4F-EB65-436F-8705-FB08677FA9B9}|interlocked\\interlocked.csproj|solutionrelative:interlocked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\synchronized.colors\\Program.cs",
+              "RelativeDocumentMoniker": "synchronized.colors\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\synchronized.colors\\Program.cs",
+              "RelativeToolTip": "synchronized.colors\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:06:06.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\semaphore\\Program.cs",
+              "RelativeDocumentMoniker": "semaphore\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\semaphore\\Program.cs",
+              "RelativeToolTip": "semaphore\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:06:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\mutex\\Program.cs",
+              "RelativeDocumentMoniker": "mutex\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\mutex\\Program.cs",
+              "RelativeToolTip": "mutex\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:05:49.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Summation.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\interlocked\\Summation.cs",
+              "RelativeDocumentMoniker": "interlocked\\Summation.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\interlocked\\Summation.cs",
+              "RelativeToolTip": "interlocked\\Summation.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:05:33.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\interlocked\\Program.cs",
+              "RelativeDocumentMoniker": "interlocked\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\concurrency\\synchronization\\interlocked\\Program.cs",
+              "RelativeToolTip": "interlocked\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:05:27.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

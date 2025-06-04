@@ -1,0 +1,28 @@
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\bin\Debug\net8.0\04Deadlock.exe
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\bin\Debug\net8.0\04Deadlock.deps.json
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\bin\Debug\net8.0\04Deadlock.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\bin\Debug\net8.0\04Deadlock.dll
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\bin\Debug\net8.0\04Deadlock.pdb
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\obj\Debug\net8.0\04Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\obj\Debug\net8.0\04Deadlock.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\obj\Debug\net8.0\04Deadlock.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\obj\Debug\net8.0\04Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\obj\Debug\net8.0\04Deadlock.dll
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\obj\Debug\net8.0\refint\04Deadlock.dll
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\obj\Debug\net8.0\04Deadlock.pdb
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\obj\Debug\net8.0\04Deadlock.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP11_2425\04Deadlock\obj\Debug\net8.0\ref\04Deadlock.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\bin\Debug\net8.0\04Deadlock.exe
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\bin\Debug\net8.0\04Deadlock.deps.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\bin\Debug\net8.0\04Deadlock.runtimeconfig.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\bin\Debug\net8.0\04Deadlock.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\bin\Debug\net8.0\04Deadlock.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\obj\Debug\net8.0\04Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\obj\Debug\net8.0\04Deadlock.AssemblyInfoInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\obj\Debug\net8.0\04Deadlock.AssemblyInfo.cs
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\obj\Debug\net8.0\04Deadlock.csproj.CoreCompileInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\obj\Debug\net8.0\04Deadlock.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\obj\Debug\net8.0\refint\04Deadlock.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\obj\Debug\net8.0\04Deadlock.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\obj\Debug\net8.0\04Deadlock.genruntimeconfig.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\04Deadlock\obj\Debug\net8.0\ref\04Deadlock.dll

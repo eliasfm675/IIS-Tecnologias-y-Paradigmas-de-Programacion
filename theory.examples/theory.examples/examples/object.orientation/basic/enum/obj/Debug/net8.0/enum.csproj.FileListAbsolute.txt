@@ -1,0 +1,12 @@
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net8.0\@enum.exe
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net8.0\@enum.deps.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net8.0\@enum.runtimeconfig.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net8.0\@enum.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\bin\Debug\net8.0\@enum.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net8.0\enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net8.0\enum.csproj.CoreCompileInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net8.0\@enum.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net8.0\refint\@enum.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net8.0\@enum.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net8.0\enum.genruntimeconfig.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\enum\obj\Debug\net8.0\ref\@enum.dll

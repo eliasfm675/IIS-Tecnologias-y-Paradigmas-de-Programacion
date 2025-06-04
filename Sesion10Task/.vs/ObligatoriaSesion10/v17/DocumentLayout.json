@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1354DBC-CCE6-42B8-B737-FA6101564860}|Ejercicio\\Ejercicio.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10task\\ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1354DBC-CCE6-42B8-B737-FA6101564860}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1354DBC-CCE6-42B8-B737-FA6101564860}|Ejercicio\\Ejercicio.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10task\\ejercicio\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1354DBC-CCE6-42B8-B737-FA6101564860}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1354DBC-CCE6-42B8-B737-FA6101564860}|Ejercicio\\Ejercicio.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10task\\ejercicio\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1354DBC-CCE6-42B8-B737-FA6101564860}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1354DBC-CCE6-42B8-B737-FA6101564860}|Ejercicio\\Ejercicio.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10task\\ejercicio\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1354DBC-CCE6-42B8-B737-FA6101564860}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1354DBC-CCE6-42B8-B737-FA6101564860}|Ejercicio\\Ejercicio.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10task\\ejercicio\\bitcoinvaluedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1354DBC-CCE6-42B8-B737-FA6101564860}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\bitcoinvaluedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\Ejercicio\\Worker.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Worker.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\Ejercicio\\Worker.cs",
+              "RelativeToolTip": "Ejercicio\\Worker.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:50:10.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\Ejercicio\\Master.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Master.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\Ejercicio\\Master.cs",
+              "RelativeToolTip": "Ejercicio\\Master.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwB0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:34:19.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\Ejercicio\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\Ejercicio\\Program.cs",
+              "RelativeToolTip": "Ejercicio\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:25:59.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BitcoinValueData.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\Ejercicio\\BitcoinValueData.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\BitcoinValueData.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\Ejercicio\\BitcoinValueData.cs",
+              "RelativeToolTip": "Ejercicio\\BitcoinValueData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:26:04.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\Ejercicio\\Utils.cs",
+              "RelativeDocumentMoniker": "Ejercicio\\Utils.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10Task\\Ejercicio\\Utils.cs",
+              "RelativeToolTip": "Ejercicio\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:26:08.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

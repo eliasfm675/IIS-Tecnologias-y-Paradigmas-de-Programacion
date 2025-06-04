@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C10018-2AE9-4B0D-847F-9BE41611F8DD}|06PLINQ\\06PLINQ.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12 (3)\\06plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C10018-2AE9-4B0D-847F-9BE41611F8DD}|06PLINQ\\06PLINQ.csproj|solutionrelative:06plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C10018-2AE9-4B0D-847F-9BE41611F8DD}|06PLINQ\\06PLINQ.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12 (3)\\06plinq\\procesadortextos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C10018-2AE9-4B0D-847F-9BE41611F8DD}|06PLINQ\\06PLINQ.csproj|solutionrelative:06plinq\\procesadortextos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648D2BE-E979-4A2E-BEA8-23491314F383}|05TareasParalelo\\05TareasParalelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12 (3)\\05tareasparalelo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C648D2BE-E979-4A2E-BEA8-23491314F383}|05TareasParalelo\\05TareasParalelo.csproj|solutionrelative:05tareasparalelo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE2875-CDA6-46D3-B026-C3102655A1F3}|04TareasSecuencial\\04TareasSecuencial.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12 (3)\\04tareassecuencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE2875-CDA6-46D3-B026-C3102655A1F3}|04TareasSecuencial\\04TareasSecuencial.csproj|solutionrelative:04tareassecuencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648D2BE-E979-4A2E-BEA8-23491314F383}|05TareasParalelo\\05TareasParalelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12 (3)\\05tareasparalelo\\05tareasparalelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C648D2BE-E979-4A2E-BEA8-23491314F383}|05TareasParalelo\\05TareasParalelo.csproj|solutionrelative:05tareasparalelo\\05tareasparalelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDD5D34-6F19-4E46-AEBE-3B1B49AE4302}|03DatosParaleloLocales\\03DatosParaleloLocales.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12 (3)\\03datosparalelolocales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDD5D34-6F19-4E46-AEBE-3B1B49AE4302}|03DatosParaleloLocales\\03DatosParaleloLocales.csproj|solutionrelative:03datosparalelolocales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E970497B-B9F5-4568-A463-1205FCD5780E}|02DatosParalelo\\02DatosParalelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12 (3)\\02datosparalelo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E970497B-B9F5-4568-A463-1205FCD5780E}|02DatosParalelo\\02DatosParalelo.csproj|solutionrelative:02datosparalelo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67CAAC7-3419-4946-9CBF-4874481F27DC}|01DatosSecuencial\\01DatosSecuencial.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12 (3)\\01datossecuencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67CAAC7-3419-4946-9CBF-4874481F27DC}|01DatosSecuencial\\01DatosSecuencial.csproj|solutionrelative:01datossecuencial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C648D2BE-E979-4A2E-BEA8-23491314F383}|05TareasParalelo\\05TareasParalelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12 (3)\\05tareasparalelo\\procesadortextos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C648D2BE-E979-4A2E-BEA8-23491314F383}|05TareasParalelo\\05TareasParalelo.csproj|solutionrelative:05tareasparalelo\\procesadortextos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7AE2875-CDA6-46D3-B026-C3102655A1F3}|04TareasSecuencial\\04TareasSecuencial.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12 (3)\\04tareassecuencial\\procesadortextos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7AE2875-CDA6-46D3-B026-C3102655A1F3}|04TareasSecuencial\\04TareasSecuencial.csproj|solutionrelative:04tareassecuencial\\procesadortextos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "05TareasParalelo",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\05TareasParalelo\\05TareasParalelo.csproj",
+              "RelativeDocumentMoniker": "05TareasParalelo\\05TareasParalelo.csproj",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\05TareasParalelo\\05TareasParalelo.csproj",
+              "RelativeToolTip": "05TareasParalelo\\05TareasParalelo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T20:24:24.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\05TareasParalelo\\Program.cs",
+              "RelativeDocumentMoniker": "05TareasParalelo\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\05TareasParalelo\\Program.cs",
+              "RelativeToolTip": "05TareasParalelo\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwC0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:48:24.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProcesadorTextos.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\05TareasParalelo\\ProcesadorTextos.cs",
+              "RelativeDocumentMoniker": "05TareasParalelo\\ProcesadorTextos.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\05TareasParalelo\\ProcesadorTextos.cs",
+              "RelativeToolTip": "05TareasParalelo\\ProcesadorTextos.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAALQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:48:21.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\03DatosParaleloLocales\\Program.cs",
+              "RelativeDocumentMoniker": "03DatosParaleloLocales\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\03DatosParaleloLocales\\Program.cs",
+              "RelativeToolTip": "03DatosParaleloLocales\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwHoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:45:02.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcesadorTextos.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\06PLINQ\\ProcesadorTextos.cs",
+              "RelativeDocumentMoniker": "06PLINQ\\ProcesadorTextos.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\06PLINQ\\ProcesadorTextos.cs",
+              "RelativeToolTip": "06PLINQ\\ProcesadorTextos.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:10:38.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\06PLINQ\\Program.cs",
+              "RelativeDocumentMoniker": "06PLINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\06PLINQ\\Program.cs",
+              "RelativeToolTip": "06PLINQ\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwE8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:06:54.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProcesadorTextos.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\04TareasSecuencial\\ProcesadorTextos.cs",
+              "RelativeDocumentMoniker": "04TareasSecuencial\\ProcesadorTextos.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\04TareasSecuencial\\ProcesadorTextos.cs",
+              "RelativeToolTip": "04TareasSecuencial\\ProcesadorTextos.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAIwKsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:47:07.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\04TareasSecuencial\\Program.cs",
+              "RelativeDocumentMoniker": "04TareasSecuencial\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\04TareasSecuencial\\Program.cs",
+              "RelativeToolTip": "04TareasSecuencial\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:46:59.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\02DatosParalelo\\Program.cs",
+              "RelativeDocumentMoniker": "02DatosParalelo\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\02DatosParalelo\\Program.cs",
+              "RelativeToolTip": "02DatosParalelo\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:44:10.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\01DatosSecuencial\\Program.cs",
+              "RelativeDocumentMoniker": "01DatosSecuencial\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12 (3)\\01DatosSecuencial\\Program.cs",
+              "RelativeToolTip": "01DatosSecuencial\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:43:56.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

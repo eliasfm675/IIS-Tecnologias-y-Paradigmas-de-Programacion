@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\bin\Release\net8.0\02HilosExplicitaPOO.exe
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\bin\Release\net8.0\02HilosExplicitaPOO.deps.json
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\bin\Release\net8.0\02HilosExplicitaPOO.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\bin\Release\net8.0\02HilosExplicitaPOO.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\bin\Release\net8.0\02HilosExplicitaPOO.pdb
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\obj\Release\net8.0\02HilosExplicitaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\obj\Release\net8.0\02HilosExplicitaPOO.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\obj\Release\net8.0\02HilosExplicitaPOO.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\obj\Release\net8.0\02HilosExplicitaPOO.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\obj\Release\net8.0\02HilosExplicitaPOO.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\obj\Release\net8.0\refint\02HilosExplicitaPOO.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\obj\Release\net8.0\02HilosExplicitaPOO.pdb
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\obj\Release\net8.0\02HilosExplicitaPOO.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\02HilosExplicitaPOO\obj\Release\net8.0\ref\02HilosExplicitaPOO.dll

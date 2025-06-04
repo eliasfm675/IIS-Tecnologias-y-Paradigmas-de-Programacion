@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion04 (3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CFF287-E145-409A-B9D3-0CC175498D4E}|02IEnumerable\\02IEnumerable.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion04 (3)\\02ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CFF287-E145-409A-B9D3-0CC175498D4E}|02IEnumerable\\02IEnumerable.csproj|solutionrelative:02ienumerable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B54E11-AEC7-4C60-9E51-09E579E5C0CA}|01Genericidad\\01Genericidad.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion04 (3)\\01genericidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B54E11-AEC7-4C60-9E51-09E579E5C0CA}|01Genericidad\\01Genericidad.csproj|solutionrelative:01genericidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion04 (3)\\01Genericidad\\Program.cs",
+              "RelativeDocumentMoniker": "01Genericidad\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion04 (3)\\01Genericidad\\Program.cs",
+              "RelativeToolTip": "01Genericidad\\Program.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:07:10.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion04 (3)\\02IEnumerable\\Program.cs",
+              "RelativeDocumentMoniker": "02IEnumerable\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion04 (3)\\02IEnumerable\\Program.cs",
+              "RelativeToolTip": "02IEnumerable\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwGEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:42:52.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

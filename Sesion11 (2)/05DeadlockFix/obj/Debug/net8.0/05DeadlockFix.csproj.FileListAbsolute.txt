@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\bin\Debug\net8.0\05DeadlockFix.exe
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\bin\Debug\net8.0\05DeadlockFix.deps.json
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\bin\Debug\net8.0\05DeadlockFix.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\bin\Debug\net8.0\05DeadlockFix.dll
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\bin\Debug\net8.0\05DeadlockFix.pdb
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\obj\Debug\net8.0\05DeadlockFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\obj\Debug\net8.0\05DeadlockFix.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\obj\Debug\net8.0\05DeadlockFix.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\obj\Debug\net8.0\05DeadlockFix.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\obj\Debug\net8.0\05DeadlockFix.dll
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\obj\Debug\net8.0\refint\05DeadlockFix.dll
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\obj\Debug\net8.0\05DeadlockFix.pdb
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\obj\Debug\net8.0\05DeadlockFix.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP11_2425\05DeadlockFix\obj\Debug\net8.0\ref\05DeadlockFix.dll

@@ -1,0 +1,14 @@
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\obj\Debug\net8.0\05MasterWorkerEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\obj\Debug\net8.0\05MasterWorkerEjercicio.AssemblyInfoInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\obj\Debug\net8.0\05MasterWorkerEjercicio.AssemblyInfo.cs
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\obj\Debug\net8.0\05MasterWorkerEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\bin\Debug\net8.0\05MasterWorkerEjercicio.exe
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\bin\Debug\net8.0\05MasterWorkerEjercicio.deps.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\bin\Debug\net8.0\05MasterWorkerEjercicio.runtimeconfig.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\bin\Debug\net8.0\05MasterWorkerEjercicio.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\bin\Debug\net8.0\05MasterWorkerEjercicio.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\obj\Debug\net8.0\05MasterWorkerEjercicio.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\obj\Debug\net8.0\refint\05MasterWorkerEjercicio.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\obj\Debug\net8.0\05MasterWorkerEjercicio.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\obj\Debug\net8.0\05MasterWorkerEjercicio.genruntimeconfig.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10\05MasterWorkerEjercicio\obj\Debug\net8.0\ref\05MasterWorkerEjercicio.dll

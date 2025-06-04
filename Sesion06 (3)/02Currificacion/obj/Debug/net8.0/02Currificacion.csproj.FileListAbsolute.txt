@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\bin\Debug\net8.0\02Currificacion.exe
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\bin\Debug\net8.0\02Currificacion.deps.json
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\bin\Debug\net8.0\02Currificacion.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\bin\Debug\net8.0\02Currificacion.dll
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\bin\Debug\net8.0\02Currificacion.pdb
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\obj\Debug\net8.0\02Currificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\obj\Debug\net8.0\02Currificacion.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\obj\Debug\net8.0\02Currificacion.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\obj\Debug\net8.0\02Currificacion.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\obj\Debug\net8.0\02Currificacion.dll
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\obj\Debug\net8.0\refint\02Currificacion.dll
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\obj\Debug\net8.0\02Currificacion.pdb
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\obj\Debug\net8.0\02Currificacion.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP06_2425\TPP06_2425\02Currificacion\obj\Debug\net8.0\ref\02Currificacion.dll

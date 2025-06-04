@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\theory.examples",
+    "\\theory.examples\\examples",
+    "\\theory.examples\\examples\\functional",
+    "\\theory.examples\\examples\\functional\\closures",
+    "\\theory.examples\\examples\\functional\\closures\\closures",
+    "\\theory.examples\\examples\\metaprogramming\\annotations.attributes",
+    "\\theory.examples\\examples\\metaprogramming\\annotations.attributes\\application.with.attributes",
+    "\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism",
+    "\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding"
+  ],
+  "SelectedNode": "\\theory.examples\\examples\\functional\\closures\\closures\\IntegerClass.cs",
+  "PreviewInSolutionExplorer": false
+}

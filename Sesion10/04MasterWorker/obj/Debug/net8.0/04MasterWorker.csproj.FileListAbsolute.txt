@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\bin\Debug\net8.0\04MasterWorker.exe
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\bin\Debug\net8.0\04MasterWorker.deps.json
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\bin\Debug\net8.0\04MasterWorker.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\bin\Debug\net8.0\04MasterWorker.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\bin\Debug\net8.0\04MasterWorker.pdb
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\obj\Debug\net8.0\04MasterWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\obj\Debug\net8.0\04MasterWorker.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\obj\Debug\net8.0\04MasterWorker.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\obj\Debug\net8.0\04MasterWorker.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\obj\Debug\net8.0\04MasterWorker.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\obj\Debug\net8.0\refint\04MasterWorker.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\obj\Debug\net8.0\04MasterWorker.pdb
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\obj\Debug\net8.0\04MasterWorker.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\04MasterWorker\obj\Debug\net8.0\ref\04MasterWorker.dll

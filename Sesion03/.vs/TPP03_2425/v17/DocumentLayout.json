@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBEA3D5-7C91-4DC5-BAE0-FB5768D7F749}|02ProgramacionPorContratos\\02ProgramacionPorContratos.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\02programacionporcontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBEA3D5-7C91-4DC5-BAE0-FB5768D7F749}|02ProgramacionPorContratos\\02ProgramacionPorContratos.csproj|solutionrelative:02programacionporcontratos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA4E777-630E-4F24-BD51-352DD4309F65}|03Opcional\\03Opcional.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\03opcional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA4E777-630E-4F24-BD51-352DD4309F65}|03Opcional\\03Opcional.csproj|solutionrelative:03opcional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\modelo\\ifacturable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\ifacturable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\modelo\\icomparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\icomparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF433DA-F81A-486B-87B8-868E55612392}|01HerenciaPolimorfismo\\01HerenciaPolimorfismo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\01herenciapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF433DA-F81A-486B-87B8-868E55612392}|01HerenciaPolimorfismo\\01HerenciaPolimorfismo.csproj|solutionrelative:01herenciapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\modelo\\camiseta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\camiseta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\modelo\\estancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\estancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\modelo\\exhibicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\exhibicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\modelo\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03\\modelo\\bono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD9E5EE-8286-4F04-90E0-F607D1FF3CCA}|Modelo\\Modelo.csproj|solutionrelative:modelo\\bono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IComparable.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\IComparable.cs",
+              "RelativeDocumentMoniker": "Modelo\\IComparable.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\IComparable.cs",
+              "RelativeToolTip": "Modelo\\IComparable.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:06:24.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\01HerenciaPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "01HerenciaPolimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\01HerenciaPolimorfismo\\Program.cs",
+              "RelativeToolTip": "01HerenciaPolimorfismo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T21:06:12.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFacturable.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\IFacturable.cs",
+              "RelativeDocumentMoniker": "Modelo\\IFacturable.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\IFacturable.cs",
+              "RelativeToolTip": "Modelo\\IFacturable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:15:27.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estancia.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Estancia.cs",
+              "RelativeDocumentMoniker": "Modelo\\Estancia.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Estancia.cs",
+              "RelativeToolTip": "Modelo\\Estancia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:10:20.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camiseta.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Camiseta.cs",
+              "RelativeDocumentMoniker": "Modelo\\Camiseta.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Camiseta.cs",
+              "RelativeToolTip": "Modelo\\Camiseta.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA3wB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:34:15.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Producto.cs",
+              "RelativeDocumentMoniker": "Modelo\\Producto.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Producto.cs",
+              "RelativeToolTip": "Modelo\\Producto.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAA0wFMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:34:39.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exhibicion.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Exhibicion.cs",
+              "RelativeDocumentMoniker": "Modelo\\Exhibicion.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Exhibicion.cs",
+              "RelativeToolTip": "Modelo\\Exhibicion.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:07:04.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\03Opcional\\Program.cs",
+              "RelativeDocumentMoniker": "03Opcional\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\03Opcional\\Program.cs",
+              "RelativeToolTip": "03Opcional\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:38:25.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Evento.cs",
+              "RelativeDocumentMoniker": "Modelo\\Evento.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Evento.cs",
+              "RelativeToolTip": "Modelo\\Evento.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:36:02.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\02ProgramacionPorContratos\\Program.cs",
+              "RelativeDocumentMoniker": "02ProgramacionPorContratos\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\02ProgramacionPorContratos\\Program.cs",
+              "RelativeToolTip": "02ProgramacionPorContratos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:39:02.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bono.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Bono.cs",
+              "RelativeDocumentMoniker": "Modelo\\Bono.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03\\Modelo\\Bono.cs",
+              "RelativeToolTip": "Modelo\\Bono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T18:35:25.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

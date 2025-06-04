@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\bin\Release\net8.0\05MasterWorkerEjercicio.exe
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\bin\Release\net8.0\05MasterWorkerEjercicio.deps.json
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\bin\Release\net8.0\05MasterWorkerEjercicio.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\bin\Release\net8.0\05MasterWorkerEjercicio.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\bin\Release\net8.0\05MasterWorkerEjercicio.pdb
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\obj\Release\net8.0\05MasterWorkerEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\obj\Release\net8.0\05MasterWorkerEjercicio.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\obj\Release\net8.0\05MasterWorkerEjercicio.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\obj\Release\net8.0\05MasterWorkerEjercicio.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\obj\Release\net8.0\05MasterWorkerEjercicio.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\obj\Release\net8.0\refint\05MasterWorkerEjercicio.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\obj\Release\net8.0\05MasterWorkerEjercicio.pdb
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\obj\Release\net8.0\05MasterWorkerEjercicio.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\05MasterWorkerEjercicio\obj\Release\net8.0\ref\05MasterWorkerEjercicio.dll

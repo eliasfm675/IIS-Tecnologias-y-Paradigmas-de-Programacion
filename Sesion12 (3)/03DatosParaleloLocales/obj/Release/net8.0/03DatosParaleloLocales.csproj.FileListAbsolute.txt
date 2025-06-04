@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\bin\Release\net8.0\03DatosParaleloLocales.exe
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\bin\Release\net8.0\03DatosParaleloLocales.deps.json
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\bin\Release\net8.0\03DatosParaleloLocales.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\bin\Release\net8.0\03DatosParaleloLocales.dll
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\bin\Release\net8.0\03DatosParaleloLocales.pdb
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\obj\Release\net8.0\03DatosParaleloLocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\obj\Release\net8.0\03DatosParaleloLocales.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\obj\Release\net8.0\03DatosParaleloLocales.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\obj\Release\net8.0\03DatosParaleloLocales.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\obj\Release\net8.0\03DatosParaleloLocales.dll
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\obj\Release\net8.0\refint\03DatosParaleloLocales.dll
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\obj\Release\net8.0\03DatosParaleloLocales.pdb
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\obj\Release\net8.0\03DatosParaleloLocales.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP12_2425\03DatosParaleloLocales\obj\Release\net8.0\ref\03DatosParaleloLocales.dll

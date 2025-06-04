@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12570C81-CBF2-4DC3-9D43-43CCA31CD7C6}|03Generadores\\03Generadores.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion06 (3)\\03generadores\\fibonaccistandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12570C81-CBF2-4DC3-9D43-43CCA31CD7C6}|03Generadores\\03Generadores.csproj|solutionrelative:03generadores\\fibonaccistandard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B80102A-A4AE-4E04-AE84-3C07A632D1CA}|02Currificacion\\02Currificacion.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion06 (3)\\02currificacion\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B80102A-A4AE-4E04-AE84-3C07A632D1CA}|02Currificacion\\02Currificacion.csproj|solutionrelative:02currificacion\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E479BF3B-67A5-4568-8CF8-C973C7F5F8F4}|01Clausura\\01Clausura.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion06 (3)\\01clausura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479BF3B-67A5-4568-8CF8-C973C7F5F8F4}|01Clausura\\01Clausura.csproj|solutionrelative:01clausura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E479BF3B-67A5-4568-8CF8-C973C7F5F8F4}|01Clausura\\01Clausura.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion06 (3)\\01clausura\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E479BF3B-67A5-4568-8CF8-C973C7F5F8F4}|01Clausura\\01Clausura.csproj|solutionrelative:01clausura\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12570C81-CBF2-4DC3-9D43-43CCA31CD7C6}|03Generadores\\03Generadores.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion06 (3)\\03generadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12570C81-CBF2-4DC3-9D43-43CCA31CD7C6}|03Generadores\\03Generadores.csproj|solutionrelative:03generadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12570C81-CBF2-4DC3-9D43-43CCA31CD7C6}|03Generadores\\03Generadores.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion06 (3)\\03generadores\\fibonaccimemoization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12570C81-CBF2-4DC3-9D43-43CCA31CD7C6}|03Generadores\\03Generadores.csproj|solutionrelative:03generadores\\fibonaccimemoization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\01Clausura\\Program.cs",
+              "RelativeDocumentMoniker": "01Clausura\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\01Clausura\\Program.cs",
+              "RelativeToolTip": "01Clausura\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:56:28.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\01Clausura\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "01Clausura\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\01Clausura\\Ejercicio.cs",
+              "RelativeToolTip": "01Clausura\\Ejercicio.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:55:17.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\02Currificacion\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "02Currificacion\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\02Currificacion\\Ejercicio.cs",
+              "RelativeToolTip": "02Currificacion\\Ejercicio.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:55:10.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\03Generadores\\Program.cs",
+              "RelativeDocumentMoniker": "03Generadores\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\03Generadores\\Program.cs",
+              "RelativeToolTip": "03Generadores\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:53:56.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FibonacciStandard.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\03Generadores\\FibonacciStandard.cs",
+              "RelativeDocumentMoniker": "03Generadores\\FibonacciStandard.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\03Generadores\\FibonacciStandard.cs",
+              "RelativeToolTip": "03Generadores\\FibonacciStandard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:53:51.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FibonacciMemoization.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\03Generadores\\FibonacciMemoization.cs",
+              "RelativeDocumentMoniker": "03Generadores\\FibonacciMemoization.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion06 (3)\\03Generadores\\FibonacciMemoization.cs",
+              "RelativeToolTip": "03Generadores\\FibonacciMemoization.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:53:43.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "03HilosExplicitaFunc/1.0.0": {
+        "dependencies": {
+          "02HilosExplicitaPOO": "1.0.0"
+        },
+        "runtime": {
+          "03HilosExplicitaFunc.dll": {}
+        }
+      },
+      "02HilosExplicitaPOO/1.0.0": {
+        "runtime": {
+          "02HilosExplicitaPOO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "03HilosExplicitaFunc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "02HilosExplicitaPOO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

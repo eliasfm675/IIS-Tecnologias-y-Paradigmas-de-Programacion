@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\bin\Release\net8.0\03HilosExplicitaFunc.exe
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\bin\Release\net8.0\03HilosExplicitaFunc.deps.json
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\bin\Release\net8.0\03HilosExplicitaFunc.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\bin\Release\net8.0\03HilosExplicitaFunc.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\bin\Release\net8.0\03HilosExplicitaFunc.pdb
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\obj\Release\net8.0\03HilosExplicitaFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\obj\Release\net8.0\03HilosExplicitaFunc.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\obj\Release\net8.0\03HilosExplicitaFunc.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\obj\Release\net8.0\03HilosExplicitaFunc.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\obj\Release\net8.0\03HilosExplicitaFunc.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\obj\Release\net8.0\refint\03HilosExplicitaFunc.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\obj\Release\net8.0\03HilosExplicitaFunc.pdb
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\obj\Release\net8.0\03HilosExplicitaFunc.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\03HilosExplicitaFunc\obj\Release\net8.0\ref\03HilosExplicitaFunc.dll

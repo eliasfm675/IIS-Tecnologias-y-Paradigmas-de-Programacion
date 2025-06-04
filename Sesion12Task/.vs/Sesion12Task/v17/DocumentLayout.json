@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A02CCBF5-4DA1-4C9F-A670-A2D8891AA0E8}|Sesion12Task\\Sesion12Task.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12task\\sesion12task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02CCBF5-4DA1-4C9F-A670-A2D8891AA0E8}|Sesion12Task\\Sesion12Task.csproj|solutionrelative:sesion12task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8640B31-ADC6-4259-9A63-0DF16B70B1E8}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion12task\\modelo\\procesadortextos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8640B31-ADC6-4259-9A63-0DF16B70B1E8}|Modelo\\Modelo.csproj|solutionrelative:modelo\\procesadortextos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcesadorTextos.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12Task\\Modelo\\ProcesadorTextos.cs",
+              "RelativeDocumentMoniker": "Modelo\\ProcesadorTextos.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12Task\\Modelo\\ProcesadorTextos.cs",
+              "RelativeToolTip": "Modelo\\ProcesadorTextos.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAIwK0AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:21:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12Task\\Sesion12Task\\Program.cs",
+              "RelativeDocumentMoniker": "Sesion12Task\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion12Task\\Sesion12Task\\Program.cs",
+              "RelativeToolTip": "Sesion12Task\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFsAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:21:12.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

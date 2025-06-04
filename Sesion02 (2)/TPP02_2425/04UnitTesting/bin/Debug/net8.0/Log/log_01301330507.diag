@@ -1,0 +1,16 @@
+2025-01-30T13:49:30.5135562+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.3+c252b64ad913ea9411fc5d17bfd5580d2d061497
+2025-01-30T13:49:30.5266282+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-01-30T13:49:30.5279329+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-01-30T13:49:30.5279372+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 13:49:30.487
+2025-01-30T13:49:30.5293128+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 12844
+2025-01-30T13:49:30.5294229+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.12
+2025-01-30T13:49:30.5294336+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Private.CoreLib.dll
+2025-01-30T13:49:30.5294406+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-01-30T13:49:30.5294427+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\Mel\Desktop\01BoxingUnboxing\04UnitTesting\bin\Debug\net8.0\04UnitTesting.dll
+2025-01-30T13:49:30.5296298+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\Mel\Desktop\01BoxingUnboxing\04UnitTesting\bin\Debug\net8.0\Log --results-directory C:\Users\Mel\Desktop\01BoxingUnboxing\TestResults --client-port 62164'
+2025-01-30T13:49:30.5308546+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-01-30T13:49:30.5524418+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-01-30T13:49:30.5562499+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\Mel\Desktop\01BoxingUnboxing\04UnitTesting\bin\Debug\net8.0\04UnitTesting.testconfig.json' not found.
+2025-01-30T13:49:30.5575954+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-01-30T13:49:30.7118863+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.4' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-01-30T13:49:30.8010880+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Probar paralelización habilitada para C:\Users\Mel\Desktop\01BoxingUnboxing\04UnitTesting\bin\Debug\net8.0\04UnitTesting.dll (Trabajos: 6, Ámbito: MethodLevel)

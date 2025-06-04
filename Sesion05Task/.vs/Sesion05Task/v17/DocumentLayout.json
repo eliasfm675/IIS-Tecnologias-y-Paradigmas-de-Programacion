@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D97642-75C6-4447-8F54-E681B1CEE6E4}|Tests\\Tests.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05task\\tests\\testmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D97642-75C6-4447-8F54-E681B1CEE6E4}|Tests\\Tests.csproj|solutionrelative:tests\\testmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD1C24-8DE1-4230-A6AC-E9E46D387257}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05task\\modelo\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBD1C24-8DE1-4230-A6AC-E9E46D387257}|Modelo\\Modelo.csproj|solutionrelative:modelo\\metodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD1C24-8DE1-4230-A6AC-E9E46D387257}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05task\\modelo\\factoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBD1C24-8DE1-4230-A6AC-E9E46D387257}|Modelo\\Modelo.csproj|solutionrelative:modelo\\factoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD1C24-8DE1-4230-A6AC-E9E46D387257}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05task\\modelo\\angulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBD1C24-8DE1-4230-A6AC-E9E46D387257}|Modelo\\Modelo.csproj|solutionrelative:modelo\\angulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430AC262-EC19-49BE-AABE-80698ECCCE43}|Sesion05Task\\Sesion05Task.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05task\\sesion05task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430AC262-EC19-49BE-AABE-80698ECCCE43}|Sesion05Task\\Sesion05Task.csproj|solutionrelative:sesion05task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD1C24-8DE1-4230-A6AC-E9E46D387257}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05task\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBD1C24-8DE1-4230-A6AC-E9E46D387257}|Modelo\\Modelo.csproj|solutionrelative:modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Metodos.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Modelo\\Metodos.cs",
+              "RelativeDocumentMoniker": "Modelo\\Metodos.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Modelo\\Metodos.cs",
+              "RelativeToolTip": "Modelo\\Metodos.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:35:36.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestMetodos.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Tests\\TestMetodos.cs",
+              "RelativeDocumentMoniker": "Tests\\TestMetodos.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Tests\\TestMetodos.cs",
+              "RelativeToolTip": "Tests\\TestMetodos.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:26:59.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Sesion05Task\\Program.cs",
+              "RelativeDocumentMoniker": "Sesion05Task\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Sesion05Task\\Program.cs",
+              "RelativeToolTip": "Sesion05Task\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:48:26.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Modelo\\Persona.cs",
+              "RelativeDocumentMoniker": "Modelo\\Persona.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Modelo\\Persona.cs",
+              "RelativeToolTip": "Modelo\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:48:42.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Factoria.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Modelo\\Factoria.cs",
+              "RelativeDocumentMoniker": "Modelo\\Factoria.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Modelo\\Factoria.cs",
+              "RelativeToolTip": "Modelo\\Factoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:49:57.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Angulo.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Modelo\\Angulo.cs",
+              "RelativeDocumentMoniker": "Modelo\\Angulo.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05Task\\Modelo\\Angulo.cs",
+              "RelativeToolTip": "Modelo\\Angulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:49:21.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\bin\Debug\net8.0\02ExclusionMutua.exe
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\bin\Debug\net8.0\02ExclusionMutua.deps.json
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\bin\Debug\net8.0\02ExclusionMutua.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\bin\Debug\net8.0\02ExclusionMutua.dll
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\bin\Debug\net8.0\02ExclusionMutua.pdb
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\obj\Debug\net8.0\02ExclusionMutua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\obj\Debug\net8.0\02ExclusionMutua.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\obj\Debug\net8.0\02ExclusionMutua.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\obj\Debug\net8.0\02ExclusionMutua.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\obj\Debug\net8.0\02ExclusionMutua.dll
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\obj\Debug\net8.0\refint\02ExclusionMutua.dll
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\obj\Debug\net8.0\02ExclusionMutua.pdb
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\obj\Debug\net8.0\02ExclusionMutua.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP11_2425\02ExclusionMutua\obj\Debug\net8.0\ref\02ExclusionMutua.dll

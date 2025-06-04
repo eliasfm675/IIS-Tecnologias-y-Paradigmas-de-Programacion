@@ -1,0 +1,1057 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\functional\\closures\\closures\\IntegerClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\functional\\closures\\closures\\IntegerClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\functional\\closures\\closures\\CounterClosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\functional\\closures\\closures\\CounterClosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\functional\\closures\\closures\\CounterClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\functional\\closures\\closures\\CounterClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\metaprogramming\\annotations.attributes\\application.with.attributes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\metaprogramming\\annotations.attributes\\application.with.attributes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\parameter.passing\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\overload\\parameter.passing\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\operators\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\overload\\operators\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\operators\\Integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\overload\\operators\\Integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Integer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\maximum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\maximum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\icomparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\icomparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Angle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Angle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\idisposable\\File.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\idisposable\\File.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\FigureApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\FigureApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Circumference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Circumference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\autoboxing\\Autoboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\autoboxing\\Autoboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\nullable\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\nullable\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\nullable\\PersonPrintout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\nullable\\PersonPrintout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\nullable\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\nullable\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\methods\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\methods\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\inference\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\inference\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\enumerables\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\enumerables\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\enumerables\\FibonacciEnumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\enumerables\\FibonacciEnumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\enumerables\\Fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\enumerables\\Fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\classes\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\classes\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\bounded\\Algorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\bounded\\Algorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\bounded\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\generics\\bounded\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\WrongManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\WrongManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\CorrectManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\CorrectManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\exceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\exceptions\\exceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\assert\\asserts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\exceptions\\assert\\asserts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Mathematics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Mathematics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\structs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\structs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointStruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointStruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\strings\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\strings\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Circumference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Circumference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonDataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonBusinessRules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonBusinessRules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\constructor.destructor\\Angle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\constructor.destructor\\Angle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Multidimensional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Multidimensional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Cache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project2\\DataHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\access.levels\\Project2\\DataHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project2\\Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\access.levels\\Project2\\Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\switch\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\basic\\switch\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\hello\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\basic\\hello\\hello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\basic\\enum\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\console\\console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:theory.examples\\examples\\object.orientation\\basic\\console\\console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntegerClass.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\functional\\closures\\closures\\IntegerClass.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\functional\\closures\\closures\\IntegerClass.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\functional\\closures\\closures\\IntegerClass.cs",
+              "RelativeToolTip": "theory.examples\\examples\\functional\\closures\\closures\\IntegerClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:12:25.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CounterClosure.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\functional\\closures\\closures\\CounterClosure.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\functional\\closures\\closures\\CounterClosure.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\functional\\closures\\closures\\CounterClosure.cs",
+              "RelativeToolTip": "theory.examples\\examples\\functional\\closures\\closures\\CounterClosure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:12:23.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CounterClass.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\functional\\closures\\closures\\CounterClass.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\functional\\closures\\closures\\CounterClass.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\functional\\closures\\closures\\CounterClass.cs",
+              "RelativeToolTip": "theory.examples\\examples\\functional\\closures\\closures\\CounterClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:12:19.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\metaprogramming\\annotations.attributes\\application.with.attributes\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\metaprogramming\\annotations.attributes\\application.with.attributes\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\metaprogramming\\annotations.attributes\\application.with.attributes\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\metaprogramming\\annotations.attributes\\application.with.attributes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:12:06.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "parameters.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\parameter.passing\\parameters.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\overload\\parameter.passing\\parameters.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\parameter.passing\\parameters.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\overload\\parameter.passing\\parameters.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwEMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:09:05.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\operators\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\overload\\operators\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\operators\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\overload\\operators\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:08:55.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Integer.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\operators\\Integer.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\overload\\operators\\Integer.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\overload\\operators\\Integer.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\overload\\operators\\Integer.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:08:13.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:07:56.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Person.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Person.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Person.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\is.as\\Person.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:07:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Integer.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Integer.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Integer.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Integer.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Integer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:07:27.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "maximum.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\maximum.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\maximum.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\maximum.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\maximum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:07:17.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Person.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Person.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Person.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Person.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:07:09.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "icomparable.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\icomparable.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\icomparable.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\icomparable.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\icomparable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:07:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Angle.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Angle.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Angle.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Angle.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\interfaces\\Angle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:06:47.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\idisposable\\File.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\idisposable\\File.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\idisposable\\File.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\idisposable\\File.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:06:34.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FigureApplication.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\FigureApplication.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\FigureApplication.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\FigureApplication.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\FigureApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:06:27.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Rectangle.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Rectangle.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:06:24.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Figure.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Figure.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Figure.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Figure.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:06:13.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Circumference.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Circumference.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Circumference.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Circumference.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\dynamic.binding\\Circumference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:06:00.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Autoboxing.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\autoboxing\\Autoboxing.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\autoboxing\\Autoboxing.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\autoboxing\\Autoboxing.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\inheritance.polymorphism\\autoboxing\\Autoboxing.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:05:31.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\nullable\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\nullable\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\nullable\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\nullable\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:05:23.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PersonPrintout.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\nullable\\PersonPrintout.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\nullable\\PersonPrintout.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\nullable\\PersonPrintout.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\nullable\\PersonPrintout.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:05:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\nullable\\Person.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\nullable\\Person.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\nullable\\Person.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\nullable\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:04:54.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "methods.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\methods\\methods.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\methods\\methods.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\methods\\methods.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\methods\\methods.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:04:44.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\inference\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\inference\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\inference\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\inference\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:03:35.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\enumerables\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\enumerables\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\enumerables\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\enumerables\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:03:07.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FibonacciEnumerator.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\enumerables\\FibonacciEnumerator.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\enumerables\\FibonacciEnumerator.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\enumerables\\FibonacciEnumerator.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\enumerables\\FibonacciEnumerator.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:02:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\enumerables\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\enumerables\\Fibonacci.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\enumerables\\Fibonacci.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\enumerables\\Fibonacci.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:02:41.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "classes.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\classes\\classes.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\classes\\classes.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\classes\\classes.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\classes\\classes.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:01:59.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\bounded\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\bounded\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\bounded\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\bounded\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:01:29.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Algorithms.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\bounded\\Algorithms.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\generics\\bounded\\Algorithms.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\bounded\\Algorithms.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\generics\\bounded\\Algorithms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:01:00.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WrongManagement.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\WrongManagement.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\WrongManagement.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\WrongManagement.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\WrongManagement.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:00:27.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:00:23.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CorrectManagement.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\CorrectManagement.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\CorrectManagement.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\CorrectManagement.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\exceptions\\resource.management\\CorrectManagement.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:59:11.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\exceptions\\exceptions.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\exceptions\\exceptions\\exceptions.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\exceptions\\exceptions.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\exceptions\\exceptions\\exceptions.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:58:02.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "asserts.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\assert\\asserts.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\exceptions\\assert\\asserts.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\exceptions\\assert\\asserts.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\exceptions\\assert\\asserts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:57:33.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:57:20.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Class.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Class.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Class.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Class.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:57:16.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Mathematics.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Mathematics.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Mathematics.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Mathematics.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\utility.classes\\Mathematics.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:57:05.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\structs\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\structs\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\structs\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\structs\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:55:46.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PointStruct.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointStruct.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointStruct.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointStruct.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:55:28.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PointClass.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointClass.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointClass.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointClass.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\structs\\PointClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:55:22.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\strings\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\strings\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\strings\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\strings\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:54:49.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:54:33.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Person.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Person.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Person.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:54:27.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Circumference.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Circumference.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Circumference.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Circumference.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\properties\\Circumference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:54:01.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:53:47.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PersonDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonDataBase.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonDataBase.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonDataBase.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonDataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:53:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PersonBusinessRules.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonBusinessRules.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonBusinessRules.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonBusinessRules.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\partial.classes\\PersonBusinessRules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:53:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Angle.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\constructor.destructor\\Angle.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\constructor.destructor\\Angle.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\constructor.destructor\\Angle.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\constructor.destructor\\Angle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:53:13.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Program.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Program.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:53:06.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Multidimensional.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Multidimensional.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Multidimensional.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Multidimensional.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Multidimensional.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:52:00.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Arrays.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Arrays.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Arrays.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\encapsulation\\arrays\\Arrays.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:51:10.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Operations.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Operations.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Operations.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Operations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:50:45.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Cache.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Cache.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Cache.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Cache.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\access.levels\\Project1\\Cache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:50:44.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project2\\DataHandler.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\access.levels\\Project2\\DataHandler.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project2\\DataHandler.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\access.levels\\Project2\\DataHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:50:34.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project2\\Users.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\access.levels\\Project2\\Users.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\access.levels\\Project2\\Users.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\access.levels\\Project2\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:50:27.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "switch.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\switch\\switch.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\basic\\switch\\switch.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\switch\\switch.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\basic\\switch\\switch.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:42:37.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "hello.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\hello\\hello.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\basic\\hello\\hello.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\hello\\hello.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\basic\\hello\\hello.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:42:30.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "enum.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\enum\\enum.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\basic\\enum\\enum.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\enum\\enum.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\basic\\enum\\enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:37:23.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "console.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\console\\console.cs",
+              "RelativeDocumentMoniker": "theory.examples\\examples\\object.orientation\\basic\\console\\console.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\basic\\console\\console.cs",
+              "RelativeToolTip": "theory.examples\\examples\\object.orientation\\basic\\console\\console.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T14:35:11.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

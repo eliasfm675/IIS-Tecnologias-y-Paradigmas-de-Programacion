@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\bin\Debug\net8.0\01ProcesosHilos.exe
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\bin\Debug\net8.0\01ProcesosHilos.deps.json
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\bin\Debug\net8.0\01ProcesosHilos.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\bin\Debug\net8.0\01ProcesosHilos.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\bin\Debug\net8.0\01ProcesosHilos.pdb
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\obj\Debug\net8.0\01ProcesosHilos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\obj\Debug\net8.0\01ProcesosHilos.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\obj\Debug\net8.0\01ProcesosHilos.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\obj\Debug\net8.0\01ProcesosHilos.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\obj\Debug\net8.0\01ProcesosHilos.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\obj\Debug\net8.0\refint\01ProcesosHilos.dll
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\obj\Debug\net8.0\01ProcesosHilos.pdb
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\obj\Debug\net8.0\01ProcesosHilos.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP10_2425\TPP10_2425\01ProcesosHilos\obj\Debug\net8.0\ref\01ProcesosHilos.dll

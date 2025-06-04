@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54FBA897-02F4-4F5D-BAD2-DD31BE0AFF95}|03MetodosExtensores\\03MetodosExtensores.csproj|c:\\users\\uo299673\\desktop\\tpp02_2425\\03metodosextensores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FBA897-02F4-4F5D-BAD2-DD31BE0AFF95}|03MetodosExtensores\\03MetodosExtensores.csproj|solutionrelative:03metodosextensores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FBA897-02F4-4F5D-BAD2-DD31BE0AFF95}|03MetodosExtensores\\03MetodosExtensores.csproj|c:\\users\\uo299673\\desktop\\tpp02_2425\\03metodosextensores\\extensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FBA897-02F4-4F5D-BAD2-DD31BE0AFF95}|03MetodosExtensores\\03MetodosExtensores.csproj|solutionrelative:03metodosextensores\\extensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E95EF91D-4700-4797-999D-9D0EC2368060}|..\\..\\Downloads\\Sesion01Task\\Sesion01Task\\Modelo\\ModeloLista.csproj|c:\\users\\uo299673\\downloads\\sesion01task\\sesion01task\\modelo\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C5EBEF-0274-4EFD-B471-91DB09602A69}|..\\..\\Downloads\\Sesion01Task\\Sesion01Task\\Sesion01Task\\Sesion01Task.csproj|c:\\users\\uo299673\\downloads\\sesion01task\\sesion01task\\sesion01task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83009660-CC5E-460A-9E3A-653A47B769C2}|02Parametros\\02Parametros.csproj|c:\\users\\uo299673\\desktop\\tpp02_2425\\02parametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83009660-CC5E-460A-9E3A-653A47B769C2}|02Parametros\\02Parametros.csproj|solutionrelative:02parametros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC0DE036-E59B-4BAE-A276-753C41785ACF}|01BoxingUnboxing\\01BoxingUnboxing.csproj|c:\\users\\uo299673\\desktop\\tpp02_2425\\01boxingunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC0DE036-E59B-4BAE-A276-753C41785ACF}|01BoxingUnboxing\\01BoxingUnboxing.csproj|solutionrelative:01boxingunboxing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EB68AF-DBA7-45B9-B76C-B5E9DD6AC02E}|Modelo\\Modelo.csproj|c:\\users\\uo299673\\desktop\\tpp02_2425\\modelo\\puntointeres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EB68AF-DBA7-45B9-B76C-B5E9DD6AC02E}|Modelo\\Modelo.csproj|solutionrelative:modelo\\puntointeres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95EB68AF-DBA7-45B9-B76C-B5E9DD6AC02E}|Modelo\\Modelo.csproj|c:\\users\\uo299673\\desktop\\tpp02_2425\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95EB68AF-DBA7-45B9-B76C-B5E9DD6AC02E}|Modelo\\Modelo.csproj|solutionrelative:modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FBA897-02F4-4F5D-BAD2-DD31BE0AFF95}|03MetodosExtensores\\03MetodosExtensores.csproj|c:\\users\\uo299673\\desktop\\tpp02_2425\\03metodosextensores\\03metodosextensores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54FBA897-02F4-4F5D-BAD2-DD31BE0AFF95}|03MetodosExtensores\\03MetodosExtensores.csproj|solutionrelative:03metodosextensores\\03metodosextensores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Downloads\\Sesion01Task\\Sesion01Task\\Modelo\\List.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\Sesion01Task\\Sesion01Task\\Modelo\\List.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Downloads\\Sesion01Task\\Sesion01Task\\Modelo\\List.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\Sesion01Task\\Sesion01Task\\Modelo\\List.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:33:35.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Downloads\\Sesion01Task\\Sesion01Task\\Sesion01Task\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\Sesion01Task\\Sesion01Task\\Sesion01Task\\Program.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Downloads\\Sesion01Task\\Sesion01Task\\Sesion01Task\\Program.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\Sesion01Task\\Sesion01Task\\Sesion01Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:31:46.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\Modelo\\Persona.cs",
+              "RelativeDocumentMoniker": "Modelo\\Persona.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\Modelo\\Persona.cs",
+              "RelativeToolTip": "Modelo\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:56:27.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PuntoInteres.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\Modelo\\PuntoInteres.cs",
+              "RelativeDocumentMoniker": "Modelo\\PuntoInteres.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\Modelo\\PuntoInteres.cs",
+              "RelativeToolTip": "Modelo\\PuntoInteres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:56:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "03MetodosExtensores",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\03MetodosExtensores\\03MetodosExtensores.csproj",
+              "RelativeDocumentMoniker": "03MetodosExtensores\\03MetodosExtensores.csproj",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\03MetodosExtensores\\03MetodosExtensores.csproj",
+              "RelativeToolTip": "03MetodosExtensores\\03MetodosExtensores.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T14:36:04.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\03MetodosExtensores\\Program.cs",
+              "RelativeDocumentMoniker": "03MetodosExtensores\\Program.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\03MetodosExtensores\\Program.cs",
+              "RelativeToolTip": "03MetodosExtensores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:14:33.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extensores.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\03MetodosExtensores\\Extensores.cs",
+              "RelativeDocumentMoniker": "03MetodosExtensores\\Extensores.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\03MetodosExtensores\\Extensores.cs",
+              "RelativeToolTip": "03MetodosExtensores\\Extensores.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:14:31.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\02Parametros\\Program.cs",
+              "RelativeDocumentMoniker": "02Parametros\\Program.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\02Parametros\\Program.cs",
+              "RelativeToolTip": "02Parametros\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwK0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:14:28.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\01BoxingUnboxing\\Program.cs",
+              "RelativeDocumentMoniker": "01BoxingUnboxing\\Program.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP02_2425\\01BoxingUnboxing\\Program.cs",
+              "RelativeToolTip": "01BoxingUnboxing\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv2UAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:14:26.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

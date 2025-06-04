@@ -1,0 +1,33 @@
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\bin\Debug\net8.0\04Ejercicios.exe
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\bin\Debug\net8.0\04Ejercicios.deps.json
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\bin\Debug\net8.0\04Ejercicios.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\bin\Debug\net8.0\04Ejercicios.dll
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\bin\Debug\net8.0\04Ejercicios.pdb
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\obj\Debug\net8.0\04Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\obj\Debug\net8.0\04Ejercicios.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\obj\Debug\net8.0\04Ejercicios.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\obj\Debug\net8.0\04Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\obj\Debug\net8.0\04Ejercicios.dll
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\obj\Debug\net8.0\refint\04Ejercicios.dll
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\obj\Debug\net8.0\04Ejercicios.pdb
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\obj\Debug\net8.0\04Ejercicios.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\obj\Debug\net8.0\ref\04Ejercicios.dll
+C:\Users\uo299673\Desktop\TPP05_2425\04Ejercicios\obj\Debug\net8.0\04Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\bin\Debug\net8.0\04Ejercicios.exe
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\bin\Debug\net8.0\04Ejercicios.deps.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\bin\Debug\net8.0\04Ejercicios.runtimeconfig.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\bin\Debug\net8.0\04Ejercicios.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\bin\Debug\net8.0\04Ejercicios.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\bin\Debug\net8.0\Modelo.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\bin\Debug\net8.0\Modelo.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\04Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\04Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\04Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\04Ejercicios.AssemblyInfo.cs
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\04Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\04Ejerci.7A0056A8.Up2Date
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\04Ejercicios.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\refint\04Ejercicios.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\04Ejercicios.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\04Ejercicios.genruntimeconfig.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion05 (2)\04Ejercicios\obj\Debug\net8.0\ref\04Ejercicios.dll

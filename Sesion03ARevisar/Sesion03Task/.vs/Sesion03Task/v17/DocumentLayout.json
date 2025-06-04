@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39182DD5-0B22-46F4-AF1C-A8807FAB4158}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03arevisar\\sesion03task\\modelo\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39182DD5-0B22-46F4-AF1C-A8807FAB4158}|Modelo\\Modelo.csproj|solutionrelative:modelo\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39182DD5-0B22-46F4-AF1C-A8807FAB4158}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03arevisar\\sesion03task\\modelo\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39182DD5-0B22-46F4-AF1C-A8807FAB4158}|Modelo\\Modelo.csproj|solutionrelative:modelo\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CEB7971-BF70-4246-9CA8-8E37E4C9F8C8}|Sesion03Task\\Sesion03ARevisar.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03arevisar\\sesion03task\\sesion03task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CEB7971-BF70-4246-9CA8-8E37E4C9F8C8}|Sesion03Task\\Sesion03ARevisar.csproj|solutionrelative:sesion03task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109E5026-B33E-4CDE-9234-854A32FE4BCD}|Test\\Test.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03arevisar\\sesion03task\\test\\stacktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109E5026-B33E-4CDE-9234-854A32FE4BCD}|Test\\Test.csproj|solutionrelative:test\\stacktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39182DD5-0B22-46F4-AF1C-A8807FAB4158}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03arevisar\\sesion03task\\modelo\\conjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39182DD5-0B22-46F4-AF1C-A8807FAB4158}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39182DD5-0B22-46F4-AF1C-A8807FAB4158}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion03arevisar\\sesion03task\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39182DD5-0B22-46F4-AF1C-A8807FAB4158}|Modelo\\Modelo.csproj|solutionrelative:modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StackTest.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Test\\StackTest.cs",
+              "RelativeDocumentMoniker": "Test\\StackTest.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Test\\StackTest.cs",
+              "RelativeToolTip": "Test\\StackTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:45:08.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conjunto.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Modelo\\Conjunto.cs",
+              "RelativeDocumentMoniker": "Modelo\\Conjunto.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Modelo\\Conjunto.cs",
+              "RelativeToolTip": "Modelo\\Conjunto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:39:17.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Sesion03Task\\Program.cs",
+              "RelativeDocumentMoniker": "Sesion03Task\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Sesion03Task\\Program.cs",
+              "RelativeToolTip": "Sesion03Task\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:38:48.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Modelo\\Pila.cs",
+              "RelativeDocumentMoniker": "Modelo\\Pila.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Modelo\\Pila.cs",
+              "RelativeToolTip": "Modelo\\Pila.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAQwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:41:26.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Modelo\\Lista.cs",
+              "RelativeDocumentMoniker": "Modelo\\Lista.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Modelo\\Lista.cs",
+              "RelativeToolTip": "Modelo\\Lista.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAgwIoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:40:12.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Modelo\\Persona.cs",
+              "RelativeDocumentMoniker": "Modelo\\Persona.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion03ARevisar\\Sesion03Task\\Modelo\\Persona.cs",
+              "RelativeToolTip": "Modelo\\Persona.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T19:40:31.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

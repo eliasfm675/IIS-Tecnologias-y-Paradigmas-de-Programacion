@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BDEB51-1FE1-419C-BE67-4EB95DA05247}|EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\ejercicioproductorconsumidor\\productor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BDEB51-1FE1-419C-BE67-4EB95DA05247}|EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj|solutionrelative:ejercicioproductorconsumidor\\productor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BDEB51-1FE1-419C-BE67-4EB95DA05247}|EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\ejercicioproductorconsumidor\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BDEB51-1FE1-419C-BE67-4EB95DA05247}|EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj|solutionrelative:ejercicioproductorconsumidor\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BDEB51-1FE1-419C-BE67-4EB95DA05247}|EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\ejercicioproductorconsumidor\\consumidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BDEB51-1FE1-419C-BE67-4EB95DA05247}|EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj|solutionrelative:ejercicioproductorconsumidor\\consumidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BDEB51-1FE1-419C-BE67-4EB95DA05247}|EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\ejercicioproductorconsumidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BDEB51-1FE1-419C-BE67-4EB95DA05247}|EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj|solutionrelative:ejercicioproductorconsumidor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C65CDF-A107-4605-A21D-60C7A0A3F3BA}|EjercicioMasterWorker\\EjercicioMasterWorker.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\ejerciciomasterworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C65CDF-A107-4605-A21D-60C7A0A3F3BA}|EjercicioMasterWorker\\EjercicioMasterWorker.csproj|solutionrelative:ejerciciomasterworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C65CDF-A107-4605-A21D-60C7A0A3F3BA}|EjercicioMasterWorker\\EjercicioMasterWorker.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\ejerciciomasterworker\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C65CDF-A107-4605-A21D-60C7A0A3F3BA}|EjercicioMasterWorker\\EjercicioMasterWorker.csproj|solutionrelative:ejerciciomasterworker\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C65CDF-A107-4605-A21D-60C7A0A3F3BA}|EjercicioMasterWorker\\EjercicioMasterWorker.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\ejerciciomasterworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C65CDF-A107-4605-A21D-60C7A0A3F3BA}|EjercicioMasterWorker\\EjercicioMasterWorker.csproj|solutionrelative:ejerciciomasterworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B203C7-51F5-44B9-B998-FA58D1D6A828}|05DeadlockFix\\05DeadlockFix.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\05deadlockfix\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B203C7-51F5-44B9-B998-FA58D1D6A828}|05DeadlockFix\\05DeadlockFix.csproj|solutionrelative:05deadlockfix\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B203C7-51F5-44B9-B998-FA58D1D6A828}|05DeadlockFix\\05DeadlockFix.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\05deadlockfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B203C7-51F5-44B9-B998-FA58D1D6A828}|05DeadlockFix\\05DeadlockFix.csproj|solutionrelative:05deadlockfix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E8A80A-5415-4B68-B00F-0BAB16DCF07E}|04Deadlock\\04Deadlock.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\04deadlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E8A80A-5415-4B68-B00F-0BAB16DCF07E}|04Deadlock\\04Deadlock.csproj|solutionrelative:04deadlock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E8A80A-5415-4B68-B00F-0BAB16DCF07E}|04Deadlock\\04Deadlock.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\04deadlock\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E8A80A-5415-4B68-B00F-0BAB16DCF07E}|04Deadlock\\04Deadlock.csproj|solutionrelative:04deadlock\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8276637-DF7A-49AC-9468-69AEB025C23C}|03Interlocked\\03Interlocked.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\03interlocked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8276637-DF7A-49AC-9468-69AEB025C23C}|03Interlocked\\03Interlocked.csproj|solutionrelative:03interlocked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B23F10-09EE-47D4-BFDC-7193FF21EBF1}|02ExclusionMutua\\02ExclusionMutua.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\02exclusionmutua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B23F10-09EE-47D4-BFDC-7193FF21EBF1}|02ExclusionMutua\\02ExclusionMutua.csproj|solutionrelative:02exclusionmutua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA986B96-0C8A-47C7-BB28-59DBF9AFF277}|01Contar\\01Contar.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\01contar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA986B96-0C8A-47C7-BB28-59DBF9AFF277}|01Contar\\01Contar.csproj|solutionrelative:01contar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BDEB51-1FE1-419C-BE67-4EB95DA05247}|EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\ejercicioproductorconsumidor\\ejercicioproductorconsumidor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44BDEB51-1FE1-419C-BE67-4EB95DA05247}|EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj|solutionrelative:ejercicioproductorconsumidor\\ejercicioproductorconsumidor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C65CDF-A107-4605-A21D-60C7A0A3F3BA}|EjercicioMasterWorker\\EjercicioMasterWorker.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\ejerciciomasterworker\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C65CDF-A107-4605-A21D-60C7A0A3F3BA}|EjercicioMasterWorker\\EjercicioMasterWorker.csproj|solutionrelative:ejerciciomasterworker\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C65CDF-A107-4605-A21D-60C7A0A3F3BA}|EjercicioMasterWorker\\EjercicioMasterWorker.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11 (2)\\ejerciciomasterworker\\bitcoinvaluedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C65CDF-A107-4605-A21D-60C7A0A3F3BA}|EjercicioMasterWorker\\EjercicioMasterWorker.csproj|solutionrelative:ejerciciomasterworker\\bitcoinvaluedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\05DeadlockFix\\Program.cs",
+              "RelativeDocumentMoniker": "05DeadlockFix\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\05DeadlockFix\\Program.cs",
+              "RelativeToolTip": "05DeadlockFix\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:21:38.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\05DeadlockFix\\Cuenta.cs",
+              "RelativeDocumentMoniker": "05DeadlockFix\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\05DeadlockFix\\Cuenta.cs",
+              "RelativeToolTip": "05DeadlockFix\\Cuenta.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:21:25.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\04Deadlock\\Cuenta.cs",
+              "RelativeDocumentMoniker": "04Deadlock\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\04Deadlock\\Cuenta.cs",
+              "RelativeToolTip": "04Deadlock\\Cuenta.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwE4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:20:34.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\04Deadlock\\Program.cs",
+              "RelativeDocumentMoniker": "04Deadlock\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\04Deadlock\\Program.cs",
+              "RelativeToolTip": "04Deadlock\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:20:42.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioMasterWorker\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioMasterWorker\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioMasterWorker\\Program.cs",
+              "RelativeToolTip": "EjercicioMasterWorker\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:22:12.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioMasterWorker\\Master.cs",
+              "RelativeDocumentMoniker": "EjercicioMasterWorker\\Master.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioMasterWorker\\Master.cs",
+              "RelativeToolTip": "EjercicioMasterWorker\\Master.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:26:15.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioMasterWorker\\Worker.cs",
+              "RelativeDocumentMoniker": "EjercicioMasterWorker\\Worker.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioMasterWorker\\Worker.cs",
+              "RelativeToolTip": "EjercicioMasterWorker\\Worker.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:22:04.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioProductorConsumidor\\Program.cs",
+              "RelativeDocumentMoniker": "EjercicioProductorConsumidor\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioProductorConsumidor\\Program.cs",
+              "RelativeToolTip": "EjercicioProductorConsumidor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:48:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consumidor.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioProductorConsumidor\\Consumidor.cs",
+              "RelativeDocumentMoniker": "EjercicioProductorConsumidor\\Consumidor.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioProductorConsumidor\\Consumidor.cs",
+              "RelativeToolTip": "EjercicioProductorConsumidor\\Consumidor.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswCkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:49:58.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioProductorConsumidor\\Producto.cs",
+              "RelativeDocumentMoniker": "EjercicioProductorConsumidor\\Producto.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioProductorConsumidor\\Producto.cs",
+              "RelativeToolTip": "EjercicioProductorConsumidor\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:48:23.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Productor.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioProductorConsumidor\\Productor.cs",
+              "RelativeDocumentMoniker": "EjercicioProductorConsumidor\\Productor.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioProductorConsumidor\\Productor.cs",
+              "RelativeToolTip": "EjercicioProductorConsumidor\\Productor.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAswBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:49:39.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\03Interlocked\\Program.cs",
+              "RelativeDocumentMoniker": "03Interlocked\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\03Interlocked\\Program.cs",
+              "RelativeToolTip": "03Interlocked\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwFkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:19:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\02ExclusionMutua\\Program.cs",
+              "RelativeDocumentMoniker": "02ExclusionMutua\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\02ExclusionMutua\\Program.cs",
+              "RelativeToolTip": "02ExclusionMutua\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAwwDUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:19:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\01Contar\\Program.cs",
+              "RelativeDocumentMoniker": "01Contar\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\01Contar\\Program.cs",
+              "RelativeToolTip": "01Contar\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:19:06.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioMasterWorker\\Utils.cs",
+              "RelativeDocumentMoniker": "EjercicioMasterWorker\\Utils.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioMasterWorker\\Utils.cs",
+              "RelativeToolTip": "EjercicioMasterWorker\\Utils.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAnwDMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:25:17.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EjercicioProductorConsumidor.csproj",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj",
+              "RelativeDocumentMoniker": "EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj",
+              "RelativeToolTip": "EjercicioProductorConsumidor\\EjercicioProductorConsumidor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T20:16:44.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BitcoinValueData.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioMasterWorker\\BitcoinValueData.cs",
+              "RelativeDocumentMoniker": "EjercicioMasterWorker\\BitcoinValueData.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11 (2)\\EjercicioMasterWorker\\BitcoinValueData.cs",
+              "RelativeToolTip": "EjercicioMasterWorker\\BitcoinValueData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:26:34.607Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11Task\\Sesion11Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30555DED-84BE-4DD4-9AFB-E920B4A296B8}|ColaConcurrente\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11task\\sesion11task\\colaconcurrente\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30555DED-84BE-4DD4-9AFB-E920B4A296B8}|ColaConcurrente\\Modelo.csproj|solutionrelative:colaconcurrente\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30555DED-84BE-4DD4-9AFB-E920B4A296B8}|ColaConcurrente\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11task\\sesion11task\\colaconcurrente\\colaconcurrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30555DED-84BE-4DD4-9AFB-E920B4A296B8}|ColaConcurrente\\Modelo.csproj|solutionrelative:colaconcurrente\\colaconcurrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39E4F214-F4B1-45FA-93F6-B6C31247E8CB}|Tests\\Tests.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion11task\\sesion11task\\tests\\colatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E4F214-F4B1-45FA-93F6-B6C31247E8CB}|Tests\\Tests.csproj|solutionrelative:tests\\colatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColaTest.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11Task\\Sesion11Task\\Tests\\ColaTest.cs",
+              "RelativeDocumentMoniker": "Tests\\ColaTest.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11Task\\Sesion11Task\\Tests\\ColaTest.cs",
+              "RelativeToolTip": "Tests\\ColaTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:06:01.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11Task\\Sesion11Task\\ColaConcurrente\\Lista.cs",
+              "RelativeDocumentMoniker": "ColaConcurrente\\Lista.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11Task\\Sesion11Task\\ColaConcurrente\\Lista.cs",
+              "RelativeToolTip": "ColaConcurrente\\Lista.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAuwL4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:43:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColaConcurrente.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11Task\\Sesion11Task\\ColaConcurrente\\ColaConcurrente.cs",
+              "RelativeDocumentMoniker": "ColaConcurrente\\ColaConcurrente.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion11Task\\Sesion11Task\\ColaConcurrente\\ColaConcurrente.cs",
+              "RelativeToolTip": "ColaConcurrente\\ColaConcurrente.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:43:06.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\bin\Release\net8.0\04TareasSecuencial.exe
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\bin\Release\net8.0\04TareasSecuencial.deps.json
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\bin\Release\net8.0\04TareasSecuencial.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\bin\Release\net8.0\04TareasSecuencial.dll
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\bin\Release\net8.0\04TareasSecuencial.pdb
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\obj\Release\net8.0\04TareasSecuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\obj\Release\net8.0\04TareasSecuencial.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\obj\Release\net8.0\04TareasSecuencial.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\obj\Release\net8.0\04TareasSecuencial.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\obj\Release\net8.0\04TareasSecuencial.dll
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\obj\Release\net8.0\refint\04TareasSecuencial.dll
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\obj\Release\net8.0\04TareasSecuencial.pdb
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\obj\Release\net8.0\04TareasSecuencial.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP12_2425\04TareasSecuencial\obj\Release\net8.0\ref\04TareasSecuencial.dll

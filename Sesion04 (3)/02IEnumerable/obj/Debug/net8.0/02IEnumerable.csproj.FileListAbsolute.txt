@@ -1,0 +1,28 @@
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\bin\Debug\net8.0\02IEnumerable.exe
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\bin\Debug\net8.0\02IEnumerable.deps.json
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\bin\Debug\net8.0\02IEnumerable.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\bin\Debug\net8.0\02IEnumerable.dll
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\bin\Debug\net8.0\02IEnumerable.pdb
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\obj\Debug\net8.0\02IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\obj\Debug\net8.0\02IEnumerable.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\obj\Debug\net8.0\02IEnumerable.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\obj\Debug\net8.0\02IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\obj\Debug\net8.0\02IEnumerable.dll
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\obj\Debug\net8.0\refint\02IEnumerable.dll
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\obj\Debug\net8.0\02IEnumerable.pdb
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\obj\Debug\net8.0\02IEnumerable.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP04_2425\TPP04_2425\02IEnumerable\obj\Debug\net8.0\ref\02IEnumerable.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\bin\Debug\net8.0\02IEnumerable.exe
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\bin\Debug\net8.0\02IEnumerable.deps.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\bin\Debug\net8.0\02IEnumerable.runtimeconfig.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\bin\Debug\net8.0\02IEnumerable.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\bin\Debug\net8.0\02IEnumerable.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\obj\Debug\net8.0\02IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\obj\Debug\net8.0\02IEnumerable.AssemblyInfoInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\obj\Debug\net8.0\02IEnumerable.AssemblyInfo.cs
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\obj\Debug\net8.0\02IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\obj\Debug\net8.0\02IEnumerable.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\obj\Debug\net8.0\refint\02IEnumerable.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\obj\Debug\net8.0\02IEnumerable.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\obj\Debug\net8.0\02IEnumerable.genruntimeconfig.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion04 (3)\02IEnumerable\obj\Debug\net8.0\ref\02IEnumerable.dll

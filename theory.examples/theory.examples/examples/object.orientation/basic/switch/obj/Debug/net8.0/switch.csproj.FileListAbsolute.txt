@@ -1,0 +1,12 @@
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\bin\Debug\net8.0\switch.exe
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\bin\Debug\net8.0\switch.deps.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\bin\Debug\net8.0\switch.runtimeconfig.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\bin\Debug\net8.0\switch.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\bin\Debug\net8.0\switch.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\obj\Debug\net8.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\obj\Debug\net8.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\obj\Debug\net8.0\switch.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\obj\Debug\net8.0\refint\switch.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\obj\Debug\net8.0\switch.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\obj\Debug\net8.0\switch.genruntimeconfig.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\theory.examples\theory.examples\examples\object.orientation\basic\switch\obj\Debug\net8.0\ref\switch.dll

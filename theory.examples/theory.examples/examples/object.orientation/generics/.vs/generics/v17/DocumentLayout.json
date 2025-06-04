@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B21BED64-DE47-41AC-8D35-7F889BBAA0A7}|classes\\classes.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\classes\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21BED64-DE47-41AC-8D35-7F889BBAA0A7}|classes\\classes.csproj|solutionrelative:classes\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC41EEAB-5372-449D-8C45-09B46DEF2F34}|methods\\methods.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\methods\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC41EEAB-5372-449D-8C45-09B46DEF2F34}|methods\\methods.csproj|solutionrelative:methods\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5F30E9-AC36-4D03-9748-2F48649ABDE1}|inference\\inference.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\inference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5F30E9-AC36-4D03-9748-2F48649ABDE1}|inference\\inference.csproj|solutionrelative:inference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "classes.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\classes\\classes.cs",
+              "RelativeDocumentMoniker": "classes\\classes.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\classes\\classes.cs",
+              "RelativeToolTip": "classes\\classes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:13:57.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "methods.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\methods\\methods.cs",
+              "RelativeDocumentMoniker": "methods\\methods.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\methods\\methods.cs",
+              "RelativeToolTip": "methods\\methods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:13:48.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\inference\\Program.cs",
+              "RelativeDocumentMoniker": "inference\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\theory.examples\\theory.examples\\examples\\object.orientation\\generics\\inference\\Program.cs",
+              "RelativeToolTip": "inference\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:13:40.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

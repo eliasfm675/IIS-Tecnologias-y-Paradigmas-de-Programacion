@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<Compile Include="C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion02Task\Sesion02Task\Modelo\Persona.cs" />
+	</ItemGroup>
+
+</Project>

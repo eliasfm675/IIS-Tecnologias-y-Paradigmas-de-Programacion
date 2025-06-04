@@ -1,0 +1,28 @@
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\bin\Debug\net8.0\01Contar.exe
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\bin\Debug\net8.0\01Contar.deps.json
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\bin\Debug\net8.0\01Contar.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\bin\Debug\net8.0\01Contar.dll
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\bin\Debug\net8.0\01Contar.pdb
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\obj\Debug\net8.0\01Contar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\obj\Debug\net8.0\01Contar.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\obj\Debug\net8.0\01Contar.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\obj\Debug\net8.0\01Contar.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\obj\Debug\net8.0\01Contar.dll
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\obj\Debug\net8.0\refint\01Contar.dll
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\obj\Debug\net8.0\01Contar.pdb
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\obj\Debug\net8.0\01Contar.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP11_2425\01Contar\obj\Debug\net8.0\ref\01Contar.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\bin\Debug\net8.0\01Contar.exe
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\bin\Debug\net8.0\01Contar.deps.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\bin\Debug\net8.0\01Contar.runtimeconfig.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\bin\Debug\net8.0\01Contar.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\bin\Debug\net8.0\01Contar.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\obj\Debug\net8.0\01Contar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\obj\Debug\net8.0\01Contar.AssemblyInfoInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\obj\Debug\net8.0\01Contar.AssemblyInfo.cs
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\obj\Debug\net8.0\01Contar.csproj.CoreCompileInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\obj\Debug\net8.0\01Contar.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\obj\Debug\net8.0\refint\01Contar.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\obj\Debug\net8.0\01Contar.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\obj\Debug\net8.0\01Contar.genruntimeconfig.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion11 (2)\01Contar\obj\Debug\net8.0\ref\01Contar.dll

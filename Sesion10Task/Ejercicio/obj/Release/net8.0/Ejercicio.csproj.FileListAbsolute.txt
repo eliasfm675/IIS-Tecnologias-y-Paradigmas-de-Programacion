@@ -1,0 +1,14 @@
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\bin\Release\net8.0\Ejercicio.exe
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\bin\Release\net8.0\Ejercicio.deps.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\bin\Release\net8.0\Ejercicio.runtimeconfig.json
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\bin\Release\net8.0\Ejercicio.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\bin\Release\net8.0\Ejercicio.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\obj\Release\net8.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\obj\Release\net8.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\obj\Release\net8.0\Ejercicio.AssemblyInfo.cs
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\obj\Release\net8.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\obj\Release\net8.0\Ejercicio.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\obj\Release\net8.0\refint\Ejercicio.dll
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\obj\Release\net8.0\Ejercicio.pdb
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\obj\Release\net8.0\Ejercicio.genruntimeconfig.cache
+C:\Users\Elías\OneDrive\Escritorio\Software\2do\TPP\Sesion10Task\Ejercicio\obj\Release\net8.0\ref\Ejercicio.dll

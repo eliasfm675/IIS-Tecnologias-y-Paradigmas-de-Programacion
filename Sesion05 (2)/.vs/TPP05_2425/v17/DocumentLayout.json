@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE4612-8A7D-439C-B801-6797B2AE9A73}|02DelegadosPredefinidos\\02DelegadosPredefinidos.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05 (2)\\02delegadospredefinidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE4612-8A7D-439C-B801-6797B2AE9A73}|02DelegadosPredefinidos\\02DelegadosPredefinidos.csproj|solutionrelative:02delegadospredefinidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713B1514-1635-4D86-9451-357D8141B1D6}|03SintaxisLambda\\03SintaxisLambda.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05 (2)\\03sintaxislambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{713B1514-1635-4D86-9451-357D8141B1D6}|03SintaxisLambda\\03SintaxisLambda.csproj|solutionrelative:03sintaxislambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1671E7-36BF-4076-9463-F6899574B9DA}|04Ejercicios\\04Ejercicios.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05 (2)\\04ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1671E7-36BF-4076-9463-F6899574B9DA}|04Ejercicios\\04Ejercicios.csproj|solutionrelative:04ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E739B-4848-4328-B347-05ABBF60C71D}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05 (2)\\modelo\\modelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{837E739B-4848-4328-B347-05ABBF60C71D}|Modelo\\Modelo.csproj|solutionrelative:modelo\\modelo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E739B-4848-4328-B347-05ABBF60C71D}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05 (2)\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837E739B-4848-4328-B347-05ABBF60C71D}|Modelo\\Modelo.csproj|solutionrelative:modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E739B-4848-4328-B347-05ABBF60C71D}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05 (2)\\modelo\\factoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837E739B-4848-4328-B347-05ABBF60C71D}|Modelo\\Modelo.csproj|solutionrelative:modelo\\factoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E739B-4848-4328-B347-05ABBF60C71D}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05 (2)\\modelo\\angulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837E739B-4848-4328-B347-05ABBF60C71D}|Modelo\\Modelo.csproj|solutionrelative:modelo\\angulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{837E739B-4848-4328-B347-05ABBF60C71D}|Modelo\\Modelo.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05 (2)\\modelo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{837E739B-4848-4328-B347-05ABBF60C71D}|Modelo\\Modelo.csproj|solutionrelative:modelo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDE4612-8A7D-439C-B801-6797B2AE9A73}|02DelegadosPredefinidos\\02DelegadosPredefinidos.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion05 (2)\\02delegadospredefinidos\\extensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BDE4612-8A7D-439C-B801-6797B2AE9A73}|02DelegadosPredefinidos\\02DelegadosPredefinidos.csproj|solutionrelative:02delegadospredefinidos\\extensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modelo",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\Modelo\\Modelo.csproj",
+              "RelativeDocumentMoniker": "Modelo\\Modelo.csproj",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\Modelo\\Modelo.csproj",
+              "RelativeToolTip": "Modelo\\Modelo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T20:50:20.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\Modelo\\Persona.cs",
+              "RelativeDocumentMoniker": "Modelo\\Persona.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\Modelo\\Persona.cs",
+              "RelativeToolTip": "Modelo\\Persona.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:47:07.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Angulo.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\Modelo\\Angulo.cs",
+              "RelativeDocumentMoniker": "Modelo\\Angulo.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\Modelo\\Angulo.cs",
+              "RelativeToolTip": "Modelo\\Angulo.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T09:46:45.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\02DelegadosPredefinidos\\Program.cs",
+              "RelativeDocumentMoniker": "02DelegadosPredefinidos\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\02DelegadosPredefinidos\\Program.cs",
+              "RelativeToolTip": "02DelegadosPredefinidos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:11:46.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Extensores.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\02DelegadosPredefinidos\\Extensores.cs",
+              "RelativeDocumentMoniker": "02DelegadosPredefinidos\\Extensores.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\02DelegadosPredefinidos\\Extensores.cs",
+              "RelativeToolTip": "02DelegadosPredefinidos\\Extensores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:07:32.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\Modelo\\Libro.cs",
+              "RelativeDocumentMoniker": "Modelo\\Libro.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\Modelo\\Libro.cs",
+              "RelativeToolTip": "Modelo\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:22:45.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\04Ejercicios\\Program.cs",
+              "RelativeDocumentMoniker": "04Ejercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\04Ejercicios\\Program.cs",
+              "RelativeToolTip": "04Ejercicios\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:18:53.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Factoria.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\Modelo\\Factoria.cs",
+              "RelativeDocumentMoniker": "Modelo\\Factoria.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\Modelo\\Factoria.cs",
+              "RelativeToolTip": "Modelo\\Factoria.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:22:50.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\03SintaxisLambda\\Program.cs",
+              "RelativeDocumentMoniker": "03SintaxisLambda\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion05 (2)\\03SintaxisLambda\\Program.cs",
+              "RelativeToolTip": "03SintaxisLambda\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:19:04.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

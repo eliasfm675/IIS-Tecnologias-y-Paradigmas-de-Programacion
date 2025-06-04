@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C05E3E-B141-4D79-968C-4AB400CB39C1}|02Ejercicios\\02Ejercicios.csproj|c:\\users\\uo299673\\desktop\\tpp07_2425\\tpp07_2425\\02ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C05E3E-B141-4D79-968C-4AB400CB39C1}|02Ejercicios\\02Ejercicios.csproj|solutionrelative:02ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377B82E5-7A05-44D9-BC05-B6F7CE679715}|Modelo\\Modelo.csproj|c:\\users\\uo299673\\desktop\\tpp07_2425\\tpp07_2425\\modelo\\factoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377B82E5-7A05-44D9-BC05-B6F7CE679715}|Modelo\\Modelo.csproj|solutionrelative:modelo\\factoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F825B5-4148-4891-B0F3-68819C8CA53E}|01ExtensoresLinq\\01ExtensoresLinq.csproj|c:\\users\\uo299673\\desktop\\tpp07_2425\\tpp07_2425\\01extensoreslinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F825B5-4148-4891-B0F3-68819C8CA53E}|01ExtensoresLinq\\01ExtensoresLinq.csproj|solutionrelative:01extensoreslinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F825B5-4148-4891-B0F3-68819C8CA53E}|01ExtensoresLinq\\01ExtensoresLinq.csproj|c:\\users\\uo299673\\desktop\\tpp07_2425\\tpp07_2425\\01extensoreslinq\\extensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F825B5-4148-4891-B0F3-68819C8CA53E}|01ExtensoresLinq\\01ExtensoresLinq.csproj|solutionrelative:01extensoreslinq\\extensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377B82E5-7A05-44D9-BC05-B6F7CE679715}|Modelo\\Modelo.csproj|c:\\users\\uo299673\\desktop\\tpp07_2425\\tpp07_2425\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377B82E5-7A05-44D9-BC05-B6F7CE679715}|Modelo\\Modelo.csproj|solutionrelative:modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Factoria.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\Modelo\\Factoria.cs",
+              "RelativeDocumentMoniker": "Modelo\\Factoria.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\Modelo\\Factoria.cs",
+              "RelativeToolTip": "Modelo\\Factoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:27:27.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\Modelo\\Persona.cs",
+              "RelativeDocumentMoniker": "Modelo\\Persona.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\Modelo\\Persona.cs",
+              "RelativeToolTip": "Modelo\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:07:57.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\02Ejercicios\\Program.cs",
+              "RelativeDocumentMoniker": "02Ejercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\02Ejercicios\\Program.cs",
+              "RelativeToolTip": "02Ejercicios\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:59:27.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extensores.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\01ExtensoresLinq\\Extensores.cs",
+              "RelativeDocumentMoniker": "01ExtensoresLinq\\Extensores.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\01ExtensoresLinq\\Extensores.cs",
+              "RelativeToolTip": "01ExtensoresLinq\\Extensores.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:41:07.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\01ExtensoresLinq\\Program.cs",
+              "RelativeDocumentMoniker": "01ExtensoresLinq\\Program.cs",
+              "ToolTip": "C:\\Users\\uo299673\\Desktop\\TPP07_2425\\TPP07_2425\\01ExtensoresLinq\\Program.cs",
+              "RelativeToolTip": "01ExtensoresLinq\\Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:40:52.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

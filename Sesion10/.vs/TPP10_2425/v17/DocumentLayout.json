@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F58BA7-C0B4-4B3F-BDBD-786628A75D6B}|05MasterWorkerEjercicio\\05MasterWorkerEjercicio.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\05masterworkerejercicio\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F58BA7-C0B4-4B3F-BDBD-786628A75D6B}|05MasterWorkerEjercicio\\05MasterWorkerEjercicio.csproj|solutionrelative:05masterworkerejercicio\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F58BA7-C0B4-4B3F-BDBD-786628A75D6B}|05MasterWorkerEjercicio\\05MasterWorkerEjercicio.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\05masterworkerejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F58BA7-C0B4-4B3F-BDBD-786628A75D6B}|05MasterWorkerEjercicio\\05MasterWorkerEjercicio.csproj|solutionrelative:05masterworkerejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F58BA7-C0B4-4B3F-BDBD-786628A75D6B}|05MasterWorkerEjercicio\\05MasterWorkerEjercicio.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\05masterworkerejercicio\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F58BA7-C0B4-4B3F-BDBD-786628A75D6B}|05MasterWorkerEjercicio\\05MasterWorkerEjercicio.csproj|solutionrelative:05masterworkerejercicio\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F05CAC-734C-4EAD-B8B9-8D5D19CA99C6}|04MasterWorker\\04MasterWorker.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\04masterworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F05CAC-734C-4EAD-B8B9-8D5D19CA99C6}|04MasterWorker\\04MasterWorker.csproj|solutionrelative:04masterworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F05CAC-734C-4EAD-B8B9-8D5D19CA99C6}|04MasterWorker\\04MasterWorker.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\04masterworker\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F05CAC-734C-4EAD-B8B9-8D5D19CA99C6}|04MasterWorker\\04MasterWorker.csproj|solutionrelative:04masterworker\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F05CAC-734C-4EAD-B8B9-8D5D19CA99C6}|04MasterWorker\\04MasterWorker.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\04masterworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F05CAC-734C-4EAD-B8B9-8D5D19CA99C6}|04MasterWorker\\04MasterWorker.csproj|solutionrelative:04masterworker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBCC1C2-E6C0-47E6-97ED-764E17472EF4}|03HilosExplicitaFunc\\03HilosExplicitaFunc.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\03hilosexplicitafunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBCC1C2-E6C0-47E6-97ED-764E17472EF4}|03HilosExplicitaFunc\\03HilosExplicitaFunc.csproj|solutionrelative:03hilosexplicitafunc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8273CEEC-8EC5-40BA-B6FF-B1C16F515EF9}|02HilosExplicitaPOO\\02HilosExplicitaPOO.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\02hilosexplicitapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8273CEEC-8EC5-40BA-B6FF-B1C16F515EF9}|02HilosExplicitaPOO\\02HilosExplicitaPOO.csproj|solutionrelative:02hilosexplicitapoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE37583-7A56-4E0E-B6C7-A8993171743C}|01ProcesosHilos\\01ProcesosHilos.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\01procesoshilos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE37583-7A56-4E0E-B6C7-A8993171743C}|01ProcesosHilos\\01ProcesosHilos.csproj|solutionrelative:01procesoshilos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8273CEEC-8EC5-40BA-B6FF-B1C16F515EF9}|02HilosExplicitaPOO\\02HilosExplicitaPOO.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\02hilosexplicitapoo\\expositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8273CEEC-8EC5-40BA-B6FF-B1C16F515EF9}|02HilosExplicitaPOO\\02HilosExplicitaPOO.csproj|solutionrelative:02hilosexplicitapoo\\expositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBCC1C2-E6C0-47E6-97ED-764E17472EF4}|03HilosExplicitaFunc\\03HilosExplicitaFunc.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\03hilosexplicitafunc\\expositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FBCC1C2-E6C0-47E6-97ED-764E17472EF4}|03HilosExplicitaFunc\\03HilosExplicitaFunc.csproj|solutionrelative:03hilosexplicitafunc\\expositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F05CAC-734C-4EAD-B8B9-8D5D19CA99C6}|04MasterWorker\\04MasterWorker.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\04masterworker\\04masterworker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39F05CAC-734C-4EAD-B8B9-8D5D19CA99C6}|04MasterWorker\\04MasterWorker.csproj|solutionrelative:04masterworker\\04masterworker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBCC1C2-E6C0-47E6-97ED-764E17472EF4}|03HilosExplicitaFunc\\03HilosExplicitaFunc.csproj|c:\\users\\el\u00EDas\\onedrive\\escritorio\\software\\2do\\tpp\\sesion10\\03hilosexplicitafunc\\03hilosexplicitafunc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FBCC1C2-E6C0-47E6-97ED-764E17472EF4}|03HilosExplicitaFunc\\03HilosExplicitaFunc.csproj|solutionrelative:03hilosexplicitafunc\\03hilosexplicitafunc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\01ProcesosHilos\\Program.cs",
+              "RelativeDocumentMoniker": "01ProcesosHilos\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\01ProcesosHilos\\Program.cs",
+              "RelativeToolTip": "01ProcesosHilos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:11:10.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\02HilosExplicitaPOO\\Program.cs",
+              "RelativeDocumentMoniker": "02HilosExplicitaPOO\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\02HilosExplicitaPOO\\Program.cs",
+              "RelativeToolTip": "02HilosExplicitaPOO\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwDoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:20:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\03HilosExplicitaFunc\\Program.cs",
+              "RelativeDocumentMoniker": "03HilosExplicitaFunc\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\03HilosExplicitaFunc\\Program.cs",
+              "RelativeToolTip": "03HilosExplicitaFunc\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAqwDEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:30:34.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\05MasterWorkerEjercicio\\Program.cs",
+              "RelativeDocumentMoniker": "05MasterWorkerEjercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\05MasterWorkerEjercicio\\Program.cs",
+              "RelativeToolTip": "05MasterWorkerEjercicio\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:04:34.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Expositor.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\03HilosExplicitaFunc\\Expositor.cs",
+              "RelativeDocumentMoniker": "03HilosExplicitaFunc\\Expositor.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\03HilosExplicitaFunc\\Expositor.cs",
+              "RelativeToolTip": "03HilosExplicitaFunc\\Expositor.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:11:43.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\04MasterWorker\\Worker.cs",
+              "RelativeDocumentMoniker": "04MasterWorker\\Worker.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\04MasterWorker\\Worker.cs",
+              "RelativeToolTip": "04MasterWorker\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:45:44.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\04MasterWorker\\Master.cs",
+              "RelativeDocumentMoniker": "04MasterWorker\\Master.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\04MasterWorker\\Master.cs",
+              "RelativeToolTip": "04MasterWorker\\Master.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:41:31.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\04MasterWorker\\Program.cs",
+              "RelativeDocumentMoniker": "04MasterWorker\\Program.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\04MasterWorker\\Program.cs",
+              "RelativeToolTip": "04MasterWorker\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA1wC8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:38:11.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\05MasterWorkerEjercicio\\Master.cs",
+              "RelativeDocumentMoniker": "05MasterWorkerEjercicio\\Master.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\05MasterWorkerEjercicio\\Master.cs",
+              "RelativeToolTip": "05MasterWorkerEjercicio\\Master.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAD4vx8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:22:43.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\05MasterWorkerEjercicio\\Worker.cs",
+              "RelativeDocumentMoniker": "05MasterWorkerEjercicio\\Worker.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\05MasterWorkerEjercicio\\Worker.cs",
+              "RelativeToolTip": "05MasterWorkerEjercicio\\Worker.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:34:05.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "04MasterWorker.csproj",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\04MasterWorker\\04MasterWorker.csproj",
+              "RelativeDocumentMoniker": "04MasterWorker\\04MasterWorker.csproj",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\04MasterWorker\\04MasterWorker.csproj",
+              "RelativeToolTip": "04MasterWorker\\04MasterWorker.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T10:11:46.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Expositor.cs",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\02HilosExplicitaPOO\\Expositor.cs",
+              "RelativeDocumentMoniker": "02HilosExplicitaPOO\\Expositor.cs",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\02HilosExplicitaPOO\\Expositor.cs",
+              "RelativeToolTip": "02HilosExplicitaPOO\\Expositor.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:24:01.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "03HilosExplicitaFunc.csproj",
+              "DocumentMoniker": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\03HilosExplicitaFunc\\03HilosExplicitaFunc.csproj",
+              "RelativeDocumentMoniker": "03HilosExplicitaFunc\\03HilosExplicitaFunc.csproj",
+              "ToolTip": "C:\\Users\\El\u00EDas\\OneDrive\\Escritorio\\Software\\2do\\TPP\\Sesion10\\03HilosExplicitaFunc\\03HilosExplicitaFunc.csproj",
+              "RelativeToolTip": "03HilosExplicitaFunc\\03HilosExplicitaFunc.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T15:31:08.073Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

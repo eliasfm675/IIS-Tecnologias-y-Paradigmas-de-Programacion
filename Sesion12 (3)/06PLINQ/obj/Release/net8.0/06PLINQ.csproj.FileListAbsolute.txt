@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\bin\Release\net8.0\06PLINQ.exe
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\bin\Release\net8.0\06PLINQ.deps.json
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\bin\Release\net8.0\06PLINQ.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\bin\Release\net8.0\06PLINQ.dll
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\bin\Release\net8.0\06PLINQ.pdb
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\obj\Release\net8.0\06PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\obj\Release\net8.0\06PLINQ.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\obj\Release\net8.0\06PLINQ.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\obj\Release\net8.0\06PLINQ.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\obj\Release\net8.0\06PLINQ.dll
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\obj\Release\net8.0\refint\06PLINQ.dll
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\obj\Release\net8.0\06PLINQ.pdb
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\obj\Release\net8.0\06PLINQ.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP12_2425\06PLINQ\obj\Release\net8.0\ref\06PLINQ.dll

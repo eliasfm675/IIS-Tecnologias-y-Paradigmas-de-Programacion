@@ -1,0 +1,14 @@
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\bin\Release\net8.0\05TareasParalelo.exe
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\bin\Release\net8.0\05TareasParalelo.deps.json
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\bin\Release\net8.0\05TareasParalelo.runtimeconfig.json
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\bin\Release\net8.0\05TareasParalelo.dll
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\bin\Release\net8.0\05TareasParalelo.pdb
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\obj\Release\net8.0\05TareasParalelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\obj\Release\net8.0\05TareasParalelo.AssemblyInfoInputs.cache
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\obj\Release\net8.0\05TareasParalelo.AssemblyInfo.cs
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\obj\Release\net8.0\05TareasParalelo.csproj.CoreCompileInputs.cache
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\obj\Release\net8.0\05TareasParalelo.dll
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\obj\Release\net8.0\refint\05TareasParalelo.dll
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\obj\Release\net8.0\05TareasParalelo.pdb
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\obj\Release\net8.0\05TareasParalelo.genruntimeconfig.cache
+C:\Users\uo299673\Desktop\TPP12_2425\05TareasParalelo\obj\Release\net8.0\ref\05TareasParalelo.dll
